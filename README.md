@@ -1,5 +1,8 @@
 ORGANizer - Organ Donation and Transplantation Platform
-Organizer_logo
+
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/054b7b08-7f62-4c8f-a285-30ceac744afd" />
+
 
 Introduction
 ORGANizer is a web and mobile application designed to streamline the organ donation and transplantation process. We utilize advanced algorithms, real-time communication, and geolocation services to provide a comprehensive solution for donors, receivers, and medical professionals.
