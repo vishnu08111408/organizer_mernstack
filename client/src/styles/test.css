@@ -1,0 +1,14 @@
+div.jsx-2273566639.banner {
+    display: none;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#__next > div > div > div.jsx-2273566639.banner > div {
+    display: none !important ;
+}

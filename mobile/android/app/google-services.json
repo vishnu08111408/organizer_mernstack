@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535299584336",
+    "project_id": "organizer-deb01",
+    "storage_bucket": "organizer-deb01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535299584336:android:948517da3bff2bf4877c55",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgFutBrlb6Hs8ESADpg8NDI6i3dNrtfH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
